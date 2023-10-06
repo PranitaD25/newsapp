@@ -1,4 +1,56 @@
-# Getting Started with Create React App
+
+# NewsMonkey App
+
+A Web Application to get daily news category wise
+Used JavaScript,ReactJs and News api to fetch news
+
+The component structure of our application
+
+Navbar Component:
+
+It will have navigation of different pages of our application, like About, Home, etc pages.
+
+News Component:
+
+The big red component is the News component. It will contain a lot of ‘NewsItem’ components.
+
+NewsItem Component:
+
+Many of these items will be specific news. For example Weather news, Sports News, Politics news, etc.
+
+News Detail Component:
+
+I would like to point out that later on, we would create a ‘NewsDetail’ Component. This component will show details of specific news when the reader clicks on a specific NewsItem. Our navbar will remain intact at the top of the application.
+
+News API
+We would be using a News API to render news in our news monkey Application.
+
+
+
+
+## Features
+
+- Light/dark mode toggle
+- Live News
+- Fullscreen mode
+- Infinite Scrolling
+- Seperated News Category wise
+- Dig deep into News
+- A top loading bar for seamless view
+
+
+## Documentation
+
+[NewsApi](https://newsapi.org/)
+
+[Bootstrap](https://getbootstrap.com/)
+
+
+## Tech Stack
+
+**Client:** React, Redux, CSS , HTML
+
+**Server:** Node
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +120,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+## Authors
+
+- [Pranita Deshpande]()
+
+
+
